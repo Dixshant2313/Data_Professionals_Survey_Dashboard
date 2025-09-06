@@ -16,3 +16,5 @@ The difficulty to get into data role section provides insights into the perceive
 The happiness meter for work/life balance and salary section provides insights into the happiness of data professionals with their work/life balance and salary.
 ## Feedback
 We welcome your feedback on the dashboard. Please let us know if you have any suggestions for how to improve it.
+## Screenshot
+Preview of the dashboard. - ![Dashbaord Preview](https://github.com/Dixshant2313/Data_Professionals_Survey_Dashboard/blob/main/image.png)
